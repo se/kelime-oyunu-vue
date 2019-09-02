@@ -1,3 +1,12 @@
+## Other framework and library examples
+- [React](https://github.com/se/kelime-oyunu-react)
+- [Angular](https://github.com/selcukkutuk/kelime-oyunu-angular)
+- [Svelte](https://github.com/selcukkutuk/kelime-oyunu-svelte)
+- [Stencil](https://github.com/selcukkutuk/kelime-oyunu-stencil)
+- [Nuxt](https://github.com/selcukkutuk/kelime-oyunu-nuxt)
+- [Aurelia](https://github.com/selcukkutuk/kelime-oyunu-aurelia)
+
+
 # kelime-oyunu-vue
 
 ## Project setup
